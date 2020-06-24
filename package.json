@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "acorn": "^6.0.1",
+    "acorn": "^6.4.1",
     "minimist": "^1.0.0",
     "sanitize-html": "^1.4.1",
     "express": "^4.3.0"
